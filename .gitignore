@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+MiniMart.Api/appsettings.json
+MiniMart.ConsoleApp/appsettings.json
+
+MiniMart.Api/appsettings.[Dd]evelopment.json
